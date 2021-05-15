@@ -11,7 +11,7 @@ namespace Test_App
 {
     class Program
     {
-
+        static int A;
         struct Amirstruct
         {
             public decimal a;
